@@ -4,4 +4,4 @@
 
 ## Preface
 This repository is the sample of web application using golang.
-test code for hook
+test code v1
